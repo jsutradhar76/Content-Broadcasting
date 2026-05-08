@@ -1,4 +1,5 @@
 # Content Broadcasting System - Frontend
+Deplopyed likn: https://contentroadcasting.vercel.app/
 
 A modern React/Next.js application for managing and broadcasting educational content with role-based access control. Teachers upload content, principals approve or reject it, and students view live broadcasts.
 
